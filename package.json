@@ -1,0 +1,28 @@
+{
+  "name": "hello-phaser",
+  "version": "1.0.0",
+  "description": "Jogo em JavaScript no VaiNaWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "httpserver --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliannyvieira/hello-phaser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daliannyvieira/hello-phaser/issues"
+  },
+  "homepage": "https://github.com/daliannyvieira/hello-phaser#readme",
+  "dependencies": {
+    "phaser": "^3.17.0"
+
+  },
+  "devDependencies": {
+    "httpserver": "^0.3.0"
+  }
+
+}
